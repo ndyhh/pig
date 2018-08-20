@@ -59,3 +59,6 @@ ignore:
     - /webjars/**
   clients:
     - app
+logging:
+  level:
+    com.github.pig: debug

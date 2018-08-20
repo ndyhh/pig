@@ -35,3 +35,6 @@ ignore:
     - /metrics/**
     - /loggers/**
     - /mobile/token
+logging:
+  level:
+    com.github.pig: debug
